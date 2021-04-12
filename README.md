@@ -9,3 +9,6 @@ https://t07u64efxf.execute-api.eu-west-1.amazonaws.com/dev/product/7567ec4b-b10c
 
 Link to FE:
 https://d1n3q904n2s703.cloudfront.net/
+
+
+Click by image you will navigate to detail page
