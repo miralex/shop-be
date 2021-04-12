@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="58c38eac-b2d7-4f98-adfd-316f6220a563" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/shop-be.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/product-service-typescript/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/product-service-typescript/.npmignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/product-service-typescript/.nvmrc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/product-service-typescript/.serverless/cloudformation-template-create-stack.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/product-service-typescript/.serverless/cloudformation-template-update-stack.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/product-service-typescript/.serverless/product-service-typescript.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/product-service-typescript/.serverless/serverless-state.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/product-service-typescript/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/product-service-typescript/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/product-service-typescript/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/product-service-typescript/serverless.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/product-service-typescript/src/functions/index.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/product-service-typescript/src/functions/mock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/product-service-typescript/src/functions/productById/handler.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/product-service-typescript/src/functions/productById/index.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/product-service-typescript/src/functions/productById/schema.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/product-service-typescript/src/functions/products/handler.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/product-service-typescript/src/functions/products/index.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/product-service-typescript/src/functions/products/schema.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/product-service-typescript/src/libs/apiGateway.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/product-service-typescript/src/libs/handlerResolver.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/product-service-typescript/src/libs/lambda.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/product-service-typescript/tsconfig.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/product-service-typescript/tsconfig.paths.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/product-service-typescript/webpack.config.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/product-service/.serverless/cloudformation-template-create-stack.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/product-service/.serverless/cloudformation-template-update-stack.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/product-service/.serverless/product-service.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/product-service/.serverless/serverless-state.json" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1qt2XdF7Vg7ZWF6Jz8QQzEXeuUE" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../nodejs-aws-fe" />
+    <property name="ts.external.directory.path" value="D:\Other\Amazon\shop-be\product-service-typescript\node_modules\typescript\lib" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="58c38eac-b2d7-4f98-adfd-316f6220a563" name="Default Changelist" comment="" />
+      <created>1617884606449</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1617884606449</updated>
+      <workItem from="1617884608126" duration="3803000" />
+      <workItem from="1618211540878" duration="12031000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+</project>
